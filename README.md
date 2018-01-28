@@ -1,2 +1,2 @@
 # PassRatings
-#A simple Polyratings --> PASS integrator
+A simple Polyratings --> PASS integrator
